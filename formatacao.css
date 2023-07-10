@@ -1,9 +1,8 @@
 @charset "UTF-8";
 
 body {
-    background-color: Add8e6;
+    background-color: lightblue;
     font-family: sans-serif;
-
 }
 
 div#interface {
@@ -17,13 +16,13 @@ div#interface {
 
 header {
     text-align: center;
-    color: 0047ab;
+    color: #007fff;
     font-family: 'Courier New';
     border-bottom: 1px #606060 solid; /* linha de separação */
 }
 
 header h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin: 26px 0px 10px 0px;
 }
 
@@ -37,6 +36,7 @@ section {
     letter-spacing: 1px;
     font-size: 17px;
 }
+
 footer { /*rodapé*/
     border-top: 1px #606060 solid; /*linha de separação*/
     text-align: center;
